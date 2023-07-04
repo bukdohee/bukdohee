@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### 데이터 사이언티스트 👩‍💻
+### 데이터 엔지니어 👩‍💻
 
 intro : https://intro-dhee12-page.notion.site/My-Data-Scientist-Journey-3ba6f58efb44488da0cd5509dd5b182d
 <br>
